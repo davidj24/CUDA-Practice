@@ -1,0 +1,4 @@
+C:/Users/tkdav/OneDrive/Desktop/CUDA Practice/build/CMakeFiles/CUDA_Practice.dir
+C:/Users/tkdav/OneDrive/Desktop/CUDA Practice/build/CMakeFiles/vecadd.dir
+C:/Users/tkdav/OneDrive/Desktop/CUDA Practice/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tkdav/OneDrive/Desktop/CUDA Practice/build/CMakeFiles/ZERO_CHECK.dir
