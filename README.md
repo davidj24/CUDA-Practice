@@ -1,4 +1,4 @@
-I am currently going through UIUC's GPU Teaching Kit to learn about GPU programming in preparation of my research at Stanford under Professor Kayvon Fatahalian.
+I am currently going through [UIUC's GPU Teaching Kit]([url](http://gputeachingkit.hwu.crhc.illinois.edu/)) to learn about GPU programming in preparation of my research at Stanford under Professor Kayvon Fatahalian.
 
 This repository will contain any labs or coding I do to play around with CUDA C++
 
